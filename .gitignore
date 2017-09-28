@@ -7,3 +7,9 @@ server-ca.crt
 .cproject
 .project
 .settings/
+
+# ignore cache
+.ccache
+
+# ignore swap files
+.*.swp
